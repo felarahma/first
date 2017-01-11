@@ -1,5 +1,5 @@
 <?php
 	
-	echo "Aku juga edit file ini lho";
+	echo "Aku  juga edit file ini lho";
 
 ?>
