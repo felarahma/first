@@ -1,4 +1,4 @@
 <?php
-	echo "form login Updated";
+	echo "index";
 
 ?>
